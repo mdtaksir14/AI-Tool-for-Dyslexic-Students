@@ -97,7 +97,7 @@ Environment Config – Secure handling of API keys and URLs
 
 ## How to Run the Project Locally
 ### 1.Clone the repository
-git clone https://github.com/Daphne-GBN/Nemo_AI_Learning_Assistant_for_Dyslexic_Students.git
+https://github.com/mdtaksir14/AI-Tool-for-Dyslexic-Students/edit/main/code/Nemo_AI_Learning_Assistant_for_Dyslexic_Students-main/Nemo_AI_Learning_Assistant_for_Dyslexic_Students-main/README.md
 cd Nemo_AI_Learning_Assistant_for_Dyslexic_Students
 
 ### 2.Set up Python environment
@@ -151,8 +151,8 @@ Designed keeping dyslexic cognitive patterns in mind
 
 ## Contributors
 
-Lead Developer: Daphne Grace Backiam Nathaniel 2023BCSE07066
-Team Members: Arunima Banerjee 2023BCSE07039, Angiras Venugopal 2023BCSE07021 , Taksir Alam 2023BCSE0781
+ Daphne Grace Backiam Nathaniel 2023BCSE07066
+Team Members: Daphne Grace Backiam Nathaniel 2023BCSE07066, Arunima Banerjee 2023BCSE07039, Angiras Venugopal 2023BCSE07021 , Taksir Alam 2023BCSE0781
 
 Project Type: Academic / Accessibility-focused AI system
 
