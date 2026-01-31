@@ -1,0 +1,18 @@
+# AI Tool for Dyslexic Students 🧠📚
+
+An AI-powered accessibility system that simplifies complex text and improves reading comprehension for dyslexic learners using Machine Learning and NLP.
+
+## 🚀 Project Modules
+
+Frontend – User interface for text input and output  
+Backend – AI & NLP processing system  
+RASA – Conversational assistant
+
+## 🛠 Tech Stack
+Python, Machine Learning, NLP, RASA, HTML, CSS, JavaScript
+
+## 🎯 Objective
+To improve reading accessibility and learning experience for dyslexic students using AI.
+
+## 👨‍💻 Author
+Md Taksir Alam
